@@ -1,1 +1,1 @@
-# Quantization_Knowledge_Distillation
+# awesome-Quantization
